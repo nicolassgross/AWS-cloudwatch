@@ -1,0 +1,434 @@
+[2022-04-08T19:07:26.240135+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:26.763449+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:26.977968+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:27.402365+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:27.618473+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:27.806613+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:27.947365+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:31.842553+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:31.992489+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:32.088547+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:32.214975+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:32.341308+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:32.475611+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:32.600538+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:32.737087+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:32.860483+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:32.989664+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:07:33.103440+00:00] TestApp01.INFO: Initial test of application logging.  
+[2022-04-08T19:29:11.593898+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:26.893378+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:26.893591+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:26.894208+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:26.894442+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:26.894700+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:29:27.415435+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:27.415624+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:27.415938+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:27.416085+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:27.416230+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:29:27.630703+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:27.630841+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:27.631057+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:27.631147+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:27.631233+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:29:27.815797+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:27.815931+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:27.816117+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:27.816207+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:27.816295+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:29:27.979424+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:27.979545+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:27.979749+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:27.979854+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:27.979945+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:29:28.145963+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:28.146090+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:28.146302+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:28.146396+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:28.146482+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:29:28.309972+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:28.310124+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:28.310350+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:28.310473+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:28.310582+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:29:51.575914+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:51.576148+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:51.576507+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:51.576646+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:51.576761+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:29:58.581647+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:29:58.581778+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:29:58.581993+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:29:58.582108+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:29:58.582209+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:33:53.079364+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:33:53.080232+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:33:53.080584+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:33:53.080751+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:33:53.080893+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:34:07.978605+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:34:07.979009+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:34:07.979260+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:34:07.979390+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:34:07.979505+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:36:43.696264+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:36:43.696455+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:36:43.696705+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:36:43.696846+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:36:43.696993+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:37:00.867323+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:37:00.867524+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:37:00.867880+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:37:00.868073+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:37:00.868237+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:38:59.004431+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:38:59.004723+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:38:59.005013+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:38:59.005158+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:38:59.005254+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:39:00.384195+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:39:00.384385+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:39:00.384683+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:39:00.384792+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:39:00.384888+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:39:01.619331+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:39:01.619448+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:39:01.619614+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:39:01.619702+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:39:01.619787+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:39:01.988412+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:39:01.988547+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:39:01.988753+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:39:01.988837+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:39:01.988942+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:39:02.206487+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:39:02.206610+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:39:02.206785+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:39:02.206868+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:39:02.206971+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:39:02.386276+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:39:02.386536+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:39:02.386901+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:39:02.387070+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:39:02.387167+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:39:02.584021+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:39:02.584135+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:39:02.584365+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:39:02.584469+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:39:02.584558+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:39:02.942612+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:39:02.942992+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:39:02.943444+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:39:02.943591+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:39:02.943700+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:33.555313+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:33.555440+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:33.555644+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:33.555739+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:33.555815+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:43.110744+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:43.110864+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:43.111030+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:43.111121+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:43.111196+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:44.191057+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:44.191171+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:44.191358+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:44.191450+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:44.191541+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:44.476437+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:44.476556+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:44.476768+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:44.476878+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:44.476970+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:44.697037+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:44.697149+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:44.697317+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:44.697399+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:44.697478+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:44.914717+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:44.914958+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:44.915337+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:44.915513+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:44.915657+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:45.120427+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:45.120572+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:45.120760+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:45.120855+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:45.120949+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:45.338229+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:45.338372+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:45.338597+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:45.338719+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:45.338846+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:45.547280+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:45.547476+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:45.547740+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:45.547842+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:45.547933+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:45.772800+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:45.772936+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:45.773176+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:45.773274+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:45.773377+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:45.969111+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:45.969223+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:45.969737+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:45.969830+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:45.969913+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:46.182463+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:46.182592+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:46.183225+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:46.183321+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:46.183413+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:46.399753+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:46.399972+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:46.400229+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:46.400391+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:46.400494+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:46.610445+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:46.610594+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:46.610824+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:46.610950+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:46.611051+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:46.834757+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:46.835191+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:46.835525+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:46.835722+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:46.835883+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:47.036033+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:47.036210+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:47.037097+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:47.037256+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:47.037394+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:47.285195+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:47.285369+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:47.285606+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:47.285736+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:47.285897+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:47.433822+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:47.434156+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:47.434451+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:47.434634+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:47.434794+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:47.675418+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:47.675545+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:47.675748+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:47.675851+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:47.675949+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:47.903912+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:47.904109+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:47.904417+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:47.904565+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:47.904689+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:48.183527+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:48.183899+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:48.184847+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:48.185125+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:48.185312+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:48.464573+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:48.464736+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:48.465459+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:48.465607+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:48.465724+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:48.724147+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:48.724303+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:48.725024+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:48.725189+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:48.725331+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:49.314867+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:49.315038+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:49.315328+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:49.315583+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:49.315821+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:49.481718+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:49.481859+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:49.482238+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:49.482447+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:49.482710+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:49.690651+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:49.690797+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:49.691051+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:49.691165+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:49.691309+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:49.915587+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:49.915958+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:49.916504+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:49.916696+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:49.916848+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:50.139988+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:50.140163+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:50.140435+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:50.140583+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:50.140711+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:50.312868+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:50.312991+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:50.313177+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:50.313265+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:50.313362+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:50.539870+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:50.540021+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:50.540263+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:50.540435+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:50.540567+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:50.723097+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:50.723210+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:50.723752+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:50.723852+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:50.723945+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:50.931121+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:50.932643+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:50.933424+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:50.933595+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:50.933724+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:51.137812+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:51.138018+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:51.138723+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:51.138870+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:51.138964+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:51.338218+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:51.338396+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:51.339156+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:51.339357+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:51.339485+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:51.568288+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:51.572411+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:51.573143+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:51.573278+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:51.573389+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:51.812193+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:51.812368+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:51.813338+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:51.813822+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:51.814085+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:52.015408+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:52.015909+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:52.016700+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:52.016921+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:52.017079+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:52.298644+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:52.298808+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:52.299484+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:52.299690+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:52.299831+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:52.487985+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:52.488136+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:52.488953+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:52.489182+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:52.489327+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:52.706658+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:52.706812+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:52.707517+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:52.707665+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:52.707795+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:52.925083+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:52.925242+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:52.926136+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:52.926289+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:52.926419+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:53.123107+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:53.123304+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:53.124214+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:53.124429+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:53.124575+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:53.381648+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:53.381813+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:53.383321+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:53.383539+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:53.383707+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:53.521221+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:53.521371+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:53.522129+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:53.522295+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:53.522404+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:53.737076+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:53.737234+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:53.737929+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:53.738072+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:53.738195+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:53.953080+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:53.953223+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:53.953918+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:53.954050+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:53.954162+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:54.186336+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:54.186517+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:54.187190+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:54.187355+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:54.187490+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:54.390302+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:54.390443+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:54.391075+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:54.391198+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:54.391359+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:54.573206+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:54.573507+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:54.574258+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:54.574413+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:54.574532+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:54.767496+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:54.767644+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:54.768371+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:54.768535+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:54.768680+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:54.994246+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:54.994446+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:54.996200+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:54.996657+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:54.996925+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:55.175151+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:55.175319+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:55.175545+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:55.175689+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:55.175804+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:55.467440+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:55.467636+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:55.468611+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:55.468813+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:55.468978+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:55.657739+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:55.657957+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:55.658222+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:55.658389+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:55.658547+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:41:55.820877+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:41:55.821079+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:41:55.821384+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:41:55.821567+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:41:55.821723+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:43:00.398856+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:43:00.398998+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:43:00.399672+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-success"} 
+[2022-04-08T19:43:00.399784+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"login-failure"} 
+[2022-04-08T19:43:00.399862+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:44:52.823414+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:44:52.823545+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:44:52.824079+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"BRUNÃO"} 
+[2022-04-08T19:44:52.824174+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"NICOLAS"} 
+[2022-04-08T19:44:52.824252+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:45:49.207807+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:45:49.207995+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:45:49.208962+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"BRUNÃO"} 
+[2022-04-08T19:45:49.209175+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"NICOLAS"} 
+[2022-04-08T19:45:49.209411+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:45:49.718657+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:45:49.718770+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:45:49.719379+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"BRUNÃO"} 
+[2022-04-08T19:45:49.719474+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"NICOLAS"} 
+[2022-04-08T19:45:49.719577+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:45:50.090439+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:45:50.090597+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:45:50.091121+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"BRUNÃO"} 
+[2022-04-08T19:45:50.091199+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"NICOLAS"} 
+[2022-04-08T19:45:50.091270+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:45:50.290895+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:45:50.291045+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:45:50.291666+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"BRUNÃO"} 
+[2022-04-08T19:45:50.291774+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"NICOLAS"} 
+[2022-04-08T19:45:50.291848+00:00] PHP Logging.ERROR: Application ERROR: System Error  
+[2022-04-08T19:46:18.086644+00:00] PHP Logging.INFO: Initial test of application logging.  
+[2022-04-08T19:46:18.086892+00:00] PHP Logging.WARNING: Test of the warning system logging.  
+[2022-04-08T19:46:18.087925+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"BRUNÃO"} 
+[2022-04-08T19:46:18.088097+00:00] PHP Logging.NOTICE: Application Auth Event:  {"function":"login-action","result":"NICOLAS"} 
+[2022-04-08T19:46:18.088185+00:00] PHP Logging.ERROR: Application ERROR: System Error  
